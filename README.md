@@ -1,6 +1,6 @@
 ## Hello! My name is Abhay.
 
-These days, I'm exploring Android app development and basic White-hat hacking!
+These days, I'm doing backend dev at Nutanix.
 
 ## Stats:
 
